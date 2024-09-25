@@ -1,5 +1,9 @@
-CarDAOImpl\CarDAOImpl.class
 CarController\CarController.class
-car\Car.class
 DBConfig\DBConfig.class
+CarDAOImpl\CarDAOImpl.class
+RepuestoController\RepuestoController.class
+car\Car.class
+Repuesto\Repuesto.class
+RepuestoDAOImpl\RepuestoDAOImpl.class
 CarDao\CarDAO.class
+RepuestoDAO\RepuestoDAO.class
